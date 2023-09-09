@@ -1,10 +1,11 @@
 ---------------------------------------------------------------------------------------------------
 Version: 0.2.0
 Date: 09. 09. 2023
-  Major Features:
+  Основные изменения:
     - Добавлены текстуры для пластин 32-ух букв русского алфавита (кроме "Й", которая отсутствует в используемом шрифте).
-    - Added textures for plates of 32 letters of the Russian alphabet (except for "Й", which is missing in the font used).
     - Добавлены упрощенные, не требующие технологий, рецепты создания пластин.
+  Major Features:
+    - Added textures for plates of 32 letters of the Russian alphabet (except for "Й", which is missing in the font used).
     - Added simplified recipes for creating plates that do not require technology.
 ---------------------------------------------------------------------------------------------------
 Version: 0.1.0

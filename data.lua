@@ -1,14 +1,6 @@
--- local function config(name)
---     return settings.startup['yuku:flsi-'..name].value
--- end
-
 local function sprite(name)
     return '__yuku-floor-signs__/sprite/'..name
 end
-
--- local function sound(name)
---     return '__yuku-floor-signs__/sound/'..name
--- end
 
 local function tag(name)
     return 'yuku:flsi-'..name

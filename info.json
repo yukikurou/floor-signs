@@ -1,0 +1,9 @@
+{
+    "name": "yuku-floor-signs",
+    "version": "0.1.0",
+    "title": "Floor Signs by Yuki",
+    "author": "Yuki Kurou",
+    "contact": "yukikurouto@gmail.com",
+    "factorio_version": "1.1",
+    "dependencies": ["base >= 1.1.2"]
+}
